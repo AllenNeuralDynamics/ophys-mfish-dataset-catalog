@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0.0",
+  "mouse_id": "783884-02",
+  "rounds": {
+    "R1": "HCR_783884-02_2025-08-13_13-00-00_processed_2025-08-19_18-40-23"
+  },
+  "mouse_metadata": {
+    "species": "mouse",
+    "nickname": "unknown"
+  }
+}

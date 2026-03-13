@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/ophys-mfish-mouse.schema.json",
+  "title": "Ophys mFISH mouse dataset record",
+  "description": "Canonical metadata record for one ophys-mFISH mouse_id.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "mouse_id",
+    "rounds",
+    "mouse_metadata"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0.0",
+      "description": "Version of the metadata schema used by this record."
+    },
+    "mouse_id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Unique mouse/specimen identifier."
+    },
+    "rounds": {
+      "type": "object",
+      "description": "Mapping from round name (for example R1, R2) to processed HCR asset name.",
+      "minProperties": 1,
+      "propertyNames": {
+        "type": "string",
+        "pattern": "^R[1-9][0-9]*$"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "derived_assets": {
+      "type": "object",
+      "description": "Optional derived assets associated with this mouse.",
+      "minProperties": 1,
+      "propertyNames": {
+        "type": "string",
+        "pattern": "^[a-z][a-z0-9_]*$"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "mouse_metadata": {
+      "type": "object",
+      "description": "Mouse-level metadata.",
+      "additionalProperties": false,
+      "required": [
+        "species",
+        "nickname"
+      ],
+      "properties": {
+        "species": {
+          "type": "string",
+          "enum": ["mouse"],
+          "description": "Species for this dataset record."
+        },
+        "nickname": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Human-friendly nickname for the mouse."
+        }
+      }
+    },
+    "notes": {
+      "type": "array",
+      "description": "Optional human-written notes about the dataset.",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}

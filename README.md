@@ -1,5 +1,17 @@
 This repository stores canonical JSON metadata records for ophys-mFISH mice, including round-level assets, derived outputs, and specimen annotations.
 
+## Adding or Editing a Record
+1) Update record: 
+    + **New mouse:** create `mice/<mouse_id>.json`.
+
+    + **Existing mouse:** update the file — add rounds, derived assets, notes, or whatever changed.
+
+2) Then validate and list datasets to verify:
+
+    ```bash
+    python tools/validate.py && python tools/list_datasets.py
+    ```
+
 ## Example Record
 
 ```json

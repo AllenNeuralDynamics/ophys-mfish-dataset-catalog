@@ -1,4 +1,4 @@
-This repository stores canonical JSON metadata records for ophys-mFISH mice, including round-level assets, derived outputs, and specimen annotations.
+This repository stores JSON metadata records for ophys-mFISH mice, including round-level assets, derived outputs, and specimen annotations.
 
 ## Adding or Editing a Record
 1) Update record: 
@@ -11,6 +11,8 @@ This repository stores canonical JSON metadata records for ophys-mFISH mice, inc
     ```bash
     python tools/validate.py && python tools/list_datasets.py
     ```
+
+3) Open a Pull Request on GitHub with your changes for review and merge.
 
 ## Example Record
 

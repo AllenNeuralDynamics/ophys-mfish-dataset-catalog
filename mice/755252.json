@@ -11,5 +11,9 @@
   "mouse_metadata": {
     "species": "mouse",
     "nickname": "Lavender"
+  },
+  "derived_assets": {
+    "cell_typing": "HCR_755252_cell-typing_2026-03-08_12-00-00",
+    "pairwise_unmixing": "HCR_755252_pairwise-unmixing_2026-03-08_12-00-00"
   }
 }

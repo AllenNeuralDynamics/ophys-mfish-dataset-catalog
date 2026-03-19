@@ -11,5 +11,9 @@
   "mouse_metadata": {
     "species": "mouse",
     "nickname": "Sage"
+  },
+  "derived_assets": {
+    "cell_typing": "HCR_788406_cell-typing_2026-03-11_12-00-00",
+    "pairwise_unmixing": "HCR_788406_pairwise-unmixing_2026-03-11_12-00-00"
   }
 }

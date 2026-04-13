@@ -1,4 +1,4 @@
-This repository stores JSON metadata records for ophys-mFISH mice, including round-level assets, derived outputs, and specimen annotations.
+This repository stores JSON records of current analyzable assets for ophys-mFISH mice, round-level assets, derived outputs, and specimen annotations.
 
 ## Adding or Editing a Record
 1) Update record: 

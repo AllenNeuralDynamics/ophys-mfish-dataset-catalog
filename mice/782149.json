@@ -15,7 +15,7 @@
   "derived_assets": {
     "roi_shape_metrics": "HCR_782149_2025-11-05_13-00-00_roi-shape-metrics",
     "cell_typing": "HCR_782149_cell-typing_2026-03-08_12-00-00",
-    "pairwise_unmixing": "HCR_782149_pairwise-unmixing_2026-03-06_12-00-00"
+    "pairwise_unmixing": "HCR_782149_pairwise-unmixing_2026-04-15_21-20-31"
   },
   "notes": [
     "Tissue thickness is smaller than usual",

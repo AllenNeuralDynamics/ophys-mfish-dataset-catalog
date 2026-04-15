@@ -12,5 +12,8 @@
   "mouse_metadata": {
     "species": "mouse",
     "nickname": "Basil"
+  },
+  "derived_assets": {
+    "roi_shape_metrics": "HCR_783551-v1_2025-10-01_13-00-00_roi-shape-metrics"
   }
 }

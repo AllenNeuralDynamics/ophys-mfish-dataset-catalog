@@ -13,6 +13,7 @@
     "nickname": "Laurel"
   },
   "derived_assets": {
+    "roi_shape_metrics": "HCR_790322_2025-11-05_13-00-00_roi-shape-metrics",
     "cell_typing": "HCR_790322_cell-typing_2026-03-11_12-00-00",
     "pairwise_unmixing": "HCR_790322_pairwise-unmixing_2026-03-11_12-00-00"
   }

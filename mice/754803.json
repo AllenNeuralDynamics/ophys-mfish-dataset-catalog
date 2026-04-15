@@ -11,5 +11,8 @@
   "mouse_metadata": {
     "species": "mouse",
     "nickname": "Old bay"
+  },
+  "derived_assets": {
+    "roi_shape_metrics": "HCR_754803_2025-08-20_14-00-00_roi-shape-metrics"
   }
 }

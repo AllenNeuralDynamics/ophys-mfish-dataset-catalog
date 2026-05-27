@@ -15,6 +15,7 @@
   "derived_assets": {
     "roi_shape_metrics": "HCR_767018_2025-08-20_14-00-00_roi-shape-metrics",
     "cell_typing": "HCR_767018_cell-typing_2026-03-08_12-00-00",
-    "pairwise_unmixing": "HCR_767018_pairwise-unmixing_2026-03-06_12-00-00"
+    "pairwise_unmixing": "HCR_767018_pairwise-unmixing_2026-03-06_12-00-00",
+    "czstack_hcr_coreg": "767018_ctl-czstack-hcr-coreg_2025-10-16_00-00-00"
   }
 }

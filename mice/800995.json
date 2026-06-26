@@ -12,5 +12,8 @@
   "mouse_metadata": {
     "species": "mouse",
     "nickname": "Dandilion"
+  },
+  "derived_assets": {
+    "roi_shape_metrics": "HCR_800995_roi-shape-metrics_2026-06-25_21-31-41"
   }
 }

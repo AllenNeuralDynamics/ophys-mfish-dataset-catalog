@@ -12,5 +12,8 @@
   "mouse_metadata": {
     "species": "mouse",
     "nickname": "Nettle"
+  },
+  "derived_assets": {
+    "roi_shape_metrics": "HCR_804363_roi-shape-metrics_2026-06-25_21-31-46"
   }
 }

@@ -14,6 +14,7 @@
     "nickname": "Nettle"
   },
   "derived_assets": {
-    "roi_shape_metrics": "HCR_804363_roi-shape-metrics_2026-06-25_21-31-46"
+    "roi_shape_metrics": "HCR_804363_roi-shape-metrics_2026-06-25_21-31-46",
+    "pairwise_unmixing": "HCR_804363_pairwise-unmixing_2026-06-29_17-49-29"
   }
 }

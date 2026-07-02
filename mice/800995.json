@@ -14,6 +14,7 @@
     "nickname": "Dandilion"
   },
   "derived_assets": {
-    "roi_shape_metrics": "HCR_800995_roi-shape-metrics_2026-06-25_21-31-41"
+    "roi_shape_metrics": "HCR_800995_roi-shape-metrics_2026-06-25_21-31-41",
+    "pairwise_unmixing": "HCR_800995_pairwise-unmixing_2026-06-29_17-49-24"
   }
 }

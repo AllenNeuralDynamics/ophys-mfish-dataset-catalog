@@ -16,6 +16,7 @@
     "roi_shape_metrics": "HCR_788406_2025-11-05_13-00-00_roi-shape-metrics",
     "cell_typing": "HCR_788406_cell-typing_2026-03-11_12-00-00",
     "pairwise_unmixing": "HCR_788406_pairwise-unmixing_2026-07-01_21-56-52",
+    "nnls_unmixing": "HCR_788406_nnls-unmixing",
     "czstack_hcr_coreg": "788406_2025-07-18_ctl-czstack-hcr-coreg_2026-03-02_00-00-00"
   }
 }

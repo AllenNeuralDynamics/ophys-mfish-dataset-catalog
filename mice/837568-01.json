@@ -9,5 +9,8 @@
   "mouse_metadata": {
     "species": "mouse",
     "nickname": "unknown"
+  },
+  "derived_assets": {
+    "roi_shape_metrics": "HCR_837568-01_roi-shape-metrics_2026-07-13_23-25-45"
   }
 }

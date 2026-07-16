@@ -17,6 +17,7 @@
     "cell_typing": "HCR_788406_cell-typing_2026-03-11_12-00-00",
     "pairwise_unmixing": "HCR_788406_pairwise-unmixing_2026-07-01_21-56-52",
     "nnls_unmixing": "HCR_788406_nnls-unmixing",
-    "czstack_hcr_coreg": "788406_2025-07-18_ctl-czstack-hcr-coreg_2026-03-02_00-00-00"
+    "czstack_hcr_coreg": "788406_2025-07-18_ctl-czstack-hcr-coreg_2026-03-02_00-00-00",
+    "coreg_id_mapping": "multiplane-ophys_788406_2025-05-29_11-29-10_processed_2025-10-06_07-53-22_CTL-coreg-id-mapping_2026-07-08_21-33-12"
   }
 }

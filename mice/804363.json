@@ -15,6 +15,7 @@
   },
   "derived_assets": {
     "roi_shape_metrics": "HCR_804363_roi-shape-metrics_2026-06-25_21-31-46",
-    "pairwise_unmixing": "HCR_804363_pairwise-unmixing_2026-06-29_17-49-29"
+    "pairwise_unmixing": "HCR_804363_pairwise-unmixing_2026-06-29_17-49-29",
+    "coreg_id_mapping": "multiplane-ophys_804363_2025-08-12_13-01-00_processed_2025-08-13_14-19-58_CTL-coreg-id-mapping_2026-07-08_21-18-39"
   }
 }

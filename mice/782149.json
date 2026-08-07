@@ -18,7 +18,8 @@
     "pairwise_unmixing": "HCR_782149_pairwise-unmixing_2026-07-14_18-11-49",
     "czstack_hcr_coreg": "782149_2025-05-01_ctl-czstack-hcr-coreg_2026-03-03_00-00-00",
     "coreg_id_mapping": "multiplane-ophys_782149_2025-03-28_10-55-25_processed_2025-09-11_20-46-54_CTL-coreg-id-mapping_2026-07-08_21-21-09",
-    "roi_classifier_3d": "HCR_782149_2025-11-05_13-00-00_HCR-ROI-label_2026-06-30_20-17-18"
+    "roi_classifier_3d": "HCR_782149_2025-11-05_13-00-00_HCR-ROI-label_2026-06-30_20-17-18",
+    "spot_parquet": "HCR_782149_spot-parquet_2026-08-07_19-12-23"
   },
   "notes": [
     "Tissue thickness is smaller than usual",

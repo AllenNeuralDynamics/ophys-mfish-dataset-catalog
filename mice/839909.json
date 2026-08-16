@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "mouse_id": "839909",
+  "rounds": {
+    "R1": "HCR_839909_2026-07-23_13-00-00_processed_2026-07-30_21-17-42",
+    "R2": "HCR_839909_2026-07-30_13-00-00_processed_2026-08-03_22-48-02",
+    "R3": "HCR_839909_2026-08-06_13-00-00_processed_2026-08-11_18-51-08"
+  },
+  "mouse_metadata": {
+    "species": "mouse",
+    "nickname": "unknown"
+  },
+  "derived_assets": {
+    "roi_classifier_3d": "HCR_839909_2026-07-23_13-00-00_HCR-ROI-label_2026-08-16_20-55-11"
+  }
+}

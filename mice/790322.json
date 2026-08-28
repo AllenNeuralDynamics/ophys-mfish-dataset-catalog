@@ -17,6 +17,8 @@
     "cell_typing": "HCR_790322_cell-typing_2026-03-11_12-00-00",
     "pairwise_unmixing": "HCR_790322_pairwise-unmixing_2026-07-01_21-56-57",
     "czstack_hcr_coreg": "790322_2025-07-10_ctl-czstack-hcr-coreg_2026-03-02_00-00-00",
-    "coreg_id_mapping": "multiplane-ophys_790322_2025-06-11_15-09-29_processed_2025-10-06_19-49-40_CTL-coreg-id-mapping_2026-07-08_21-26-07"
+    "coreg_id_mapping": "multiplane-ophys_790322_2025-06-11_15-09-29_processed_2025-10-06_19-49-40_CTL-coreg-id-mapping_2026-07-08_21-26-07",
+    "roi_classifier_3d": "HCR_790322_2025-11-05_13-00-00_HCR-ROI-label_2026-06-30_20-31-01",
+    "spot_parquet": "HCR_790322_spot-parquet_2026-08-07_19-21-19"
   }
 }

@@ -16,5 +16,8 @@
   "notes": [
     "Current processing epoch: rounds reprocessed 2026-07-15/17 and re-spot-detected by the 2026-08-27 runs of the aind-hcr-spot-detection pipeline. Derived assets from the previous epoch are under mouse_id 800792-old.",
     "R1's spot-detection run (computation f03d533f) was still in progress on 2026-08-28; its mixed_spots_R1.pkl had landed but the run had not finished, so no spot_parquet cache has been captured for this mouse yet."
-  ]
+  ],
+  "derived_assets": {
+    "roi_classifier_3d": "HCR_800792_2026-03-12_13-00-00_HCR-ROI-label_2026-08-28_18-46-29"
+  }
 }

@@ -14,6 +14,7 @@
     "nickname": "Nettle"
   },
   "derived_assets": {
+    "roi_classifier_3d": "HCR_804363_2026-03-12_13-00-00_HCR-ROI-label_2026-08-28_18-46-36",
     "spot_parquet": "cell-types-and-learning_spot-parquet_2026-08-28_18-07-44"
   },
   "notes": [
